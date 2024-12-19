@@ -1,6 +1,6 @@
-# Machine Learning Final Project
+# Time Series Analysis For NIFTY50 Index
 
-This repository contains the Jupyter Notebook for the Machine Learning Final Project. The notebook performs data analysis and modeling on a dataset imported from KaggleHub. Below is an overview of the project and its components.
+This repository contains the Jupyter Notebook for the Time Series Analysis For NIFTY50 Index. The notebook performs data analysis and modeling on a dataset imported from KaggleHub. Below is an overview of the project and its components.
 
 ## Project Overview
 
@@ -48,7 +48,7 @@ The dataset is loaded into a pandas DataFrame and basic checks are performed to 
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/yssh03/Time-Series-Analysis.git)
    ```
 2. Navigate to the project directory and open the notebook in Jupyter:
    ```bash
