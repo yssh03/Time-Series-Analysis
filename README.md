@@ -48,7 +48,7 @@ The dataset is loaded into a pandas DataFrame and basic checks are performed to 
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone [<repository-url>](https://github.com/yssh03/Time-Series-Analysis.git)
+   git clone https://github.com/yssh03/Time-Series-Analysis.git
    ```
 2. Navigate to the project directory and open the notebook in Jupyter:
    ```bash
